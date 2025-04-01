@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+  padding: 2em;
+  background: #f8f8f8;
+}
+form {
+  max-width: 400px;
+  background: white;
+  padding: 1em;
+  border-radius: 8px;
+}
+input, select, button {
+  margin-top: 0.5em;
+  padding: 0.7em;
+  width: 100%;
+}
+button {
+  background: #007bff;
+  color: white;
+  border: none;
+}
